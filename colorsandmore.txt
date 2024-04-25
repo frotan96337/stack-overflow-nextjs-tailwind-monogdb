@@ -1,0 +1,6 @@
+Colors:
+Accent: 1- Accent-Gradient 2- accent-800
+Dark: 100, 200, 300, 400, 500 , Gradient
+Light: 900, 850, 800, 700, 500, 400 
+-------------------------------------------------
+Typography: H1-bold, H2-bold, h2-semiBold, h3-bold, h3-semibold,
